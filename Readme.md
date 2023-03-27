@@ -34,3 +34,15 @@ Multiplication of two given Matrices is :
 209 33 92 
 496 128 204 
 ````
+
+
+# SCREEN OUTPUTs
+## 1:Adition of matrices
+![image](https://user-images.githubusercontent.com/77499979/228008958-3d3581ca-ce93-420d-a130-868ff3a83c49.png)
+
+## 2:Multiplication
+![image](https://user-images.githubusercontent.com/77499979/228009034-344139f9-11ee-4a68-8ee9-afb988fc799f.png)
+
+![image](https://user-images.githubusercontent.com/77499979/228009077-855711ea-ad6e-4d09-9e87-cdbb9265f4b6.png)
+
+
